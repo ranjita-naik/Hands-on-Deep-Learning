@@ -29,7 +29,7 @@ Each notebook is designed to be:
 ---
 
 ## 📂 Repository Structure
-
+```bash
 .
 ├── 01_tabular_binary_classification/
 ├── 02_fashion_mnist_from_scratch/
